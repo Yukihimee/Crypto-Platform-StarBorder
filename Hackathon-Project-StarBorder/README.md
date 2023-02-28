@@ -52,7 +52,7 @@ Congratulations, you're now ready to start buying and selling crypto and NFTs us
     * A local development environment set up with Node.js and a code editor such as Visual Studio Code.
     * Knowledge of Web3.js library for interacting with Ethereum blockchain.
     * Familiarity with Truffle framework for smart contract development and deployment.
-    *Experience with React.js or another front-end JavaScript framework.
+    * Experience with React.js or another front-end JavaScript framework.
     * Understanding of RESTful API design and implementation.
     * Familiarity with OAuth2 authentication and authorization protocol.
     * Knowledge of encryption and secure data storage practices.
@@ -97,12 +97,12 @@ Till Date, No license on the project has been issued.
 
 # Acknowledgements
 
- We would like to acknowledge the following individuals and organizations for their contributions to the development and success of the StarBorder Crypto project:
+    We would like to acknowledge the following individuals and organizations for their contributions to the development and success of the StarBorder Crypto project:
     Our team of developers, designers, and project managers who worked tirelessly to bring this project to life and ensure its quality and usability.
     The open-source community for providing valuable tools, libraries, and resources that helped us build this project, including Truffle, Ganache, Web3.js, and React.
     The Devfolio Community for the oppotunity and support for this hackathon project which was a immense help for our team to continue this project.
     We learned a lot in our endeavors and we will continue to keep the effort up as good as possible.
- Thank you all for your support and contributions to the StarBorder Crypto project. We look forward to continuing to grow and improve the platform in the future.
+    Thank you all for your support and contributions to the StarBorder Crypto project. We look forward to continuing to grow and improve the platform in the future.
 
 Note: For Future Investors,
 We welcome potential investors who are interested in supporting the growth and development of the StarBorder Crypto project. Here are some key reasons why investing in our platform could be a great opportunity:
